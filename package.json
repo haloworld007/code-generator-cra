@@ -40,12 +40,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:your-name/ali-lowcode-solution-code-generator-cra.git"
+    "url": "git@github.com:haloworld007/code-generator-cra.git"
   },
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://registry.npm.xxx.com"
+    "access": "public"
   },
   "dependencies": {
     "@alilc/lowcode-code-generator": "^1.0.0-beta.16",
